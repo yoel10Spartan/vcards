@@ -1,0 +1,122 @@
+[
+    { 
+        "id":1, 
+        "name":"Christian Sastré", 
+        "image":"avalle.jpeg", 
+        "title":{ 
+            "english":"Head of Sales", 
+            "spanish":"Director de Ventas" 
+        }, 
+        "phrase": { 
+            "english":"GA is a set of companies specialized in developing and integrating IT solutions specifically designed for the Food & Beverage, Hospitality and Entertainment industries.", 
+            "spanish":"GA es un conjunto de empresas especializada en desarrollar e integrar soluciones informáticas específicamente diseñadas para las industrias de Alimentos y Bebidas, Hotelería y Entretenimiento." 
+        }, 
+        "email":"csastre@ga.com.mx", 
+        "location": 3, 
+        "phone":"5541909546",
+        "choices": [
+            {
+                "url": "https://www.youtube.com/watch?v=jj-oVfi4m5c",
+                "title": { 
+                    "english": "Sales", 
+                    "spanish": "Ventas" 
+                },
+                "icon": "bi bi-map-fill"
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=jj-oVfi4m5c",
+                "title": { 
+                    "english": "Sales", 
+                    "spanish": "Ventas" 
+                },
+                "icon": "bi bi-map-fill"
+            },
+            {
+                "url": "https://www.linkedin.com/in/yoel-mu%C3%B1oz-zecua-022b74135/",
+                "title": { 
+                    "english": "Linkedin", 
+                    "spanish": "Linkedin" 
+                },
+                "icon": "bi bi-linkedin"
+            },
+            {
+                "url": "https://api.whatsapp.com/send?phone=5212461508311",
+                "title": { 
+                    "english": "Whatsapp", 
+                    "spanish": "Whatsapp" 
+                },
+                "icon": "bi bi-whatsapp"
+            }
+        ]
+    },
+    {
+        "id":2, 
+        "name":"Verónica Navarro", 
+        "image":"isalgado.png", 
+        "title": { 
+            "english":"Commercial Manager", 
+            "spanish":"Gerente Comercial" 
+        }, 
+        "phrase": { 
+            "english":"In my work, I aim to build strong connections and empower people. Let’s chat!", 
+            "spanish":"En mi trabajo, mi objetivo es construir conexiones sólidas y empoderar a las personas. Hablemos!" 
+        }, 
+        "email": "vnavarro@ga.com.mx", 
+        "location": 1, 
+        "phone": "5541927559",
+        "choices": []
+
+    },
+    { 
+        "id": 3, 
+        "name": "Alexis Valle", 
+        "image": "ocruz.jpeg", 
+        "title": { 
+            "english":"Account Executive Sr.", 
+            "spanish":"Ejecutivo de cuenta Sr." 
+        }, 
+        "phrase": { 
+            "english":"GA is a set of companies specialized in developing and integrating IT solutions specifically designed for the Food & Beverage, Hospitality and Entertainment industries.", 
+            "spanish":"GA es un conjunto de empresas especializada en desarrollar e integrar soluciones informáticas específicamente diseñadas para las industrias de Alimentos y Bebidas, Hotelería y Entretenimiento." 
+        }, 
+        "email": "avalle@ga.com.mx", 
+        "location": 1, 
+        "phone": "5541909557",
+        "choices": []
+    },
+    {
+        "id": 4, 
+        "name": "GA Tech Solutions", 
+        "image": "ga.webp", 
+        "main": true,
+        "title": { 
+            "english":"TECHNOLOGY SOLUTIONS FOR YOUR BUSINESS", 
+            "spanish":"SOLUCIONES TECNOLOGICAS PARA TU NEGOCIO" 
+        }, 
+        "phrase": { 
+            "english":"GA is a group of companies specialized in developing and integrating IT solutions specifically designed for the Food & Beverage, Hospitality and Entertainment industries.", 
+            "spanish":"GA es un conjunto de empresas especializadas en desarrollar e integrar soluciones informáticas específicamente diseñadas para las industrias de Alimentos y Bebidas, Hotelería y Entretenimiento." 
+        }, 
+        "email": "mexico@ga.com.mx", 
+        "location": 1, 
+        "phone": "5541927559",
+        "choices": []
+    },
+    {
+        "id": 4, 
+        "name": "Yoel Munoz Zecua", 
+        "image": "ga.webp", 
+        "title": { 
+            "english":"TECHNOLOGY SOLUTIONS FOR YOUR BUSINESS", 
+            "spanish":"SOLUCIONES TECNOLOGICAS PARA TU NEGOCIO" 
+        }, 
+        "phrase": { 
+            "english":"GA is a group of companies specialized in developing and integrating IT solutions specifically designed for the Food & Beverage, Hospitality and Entertainment industries.", 
+            "spanish":"GA es un conjunto de empresas especializadas en desarrollar e integrar soluciones informáticas específicamente diseñadas para las industrias de Alimentos y Bebidas, Hotelería y Entretenimiento." 
+        }, 
+        "email": "ymunoz@ga.com.mx", 
+        "location": 1, 
+        "phone": "5541927559",
+        "choices": []
+    }
+]

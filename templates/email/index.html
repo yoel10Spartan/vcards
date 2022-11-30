@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Roboto', sans-serif;
+            text-align: center;
+        }
+
+        .blod {
+            font-weight: 800;
+        }
+
+        .header {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+
+        .header img {
+            width: 300px;
+            height: 330px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="https://ga.com.mx/wp-content/uploads/2017/04/logo-login.png" />
+
+        <p>Hola: {{ email }}</p>
+
+        <p>Has sido contactado por: {{ name }}</p>
+        <p>Mensaje: {{ description }}</p>
+        <p>Su correo es: {{ emailForm }}</p>
+    </div>
+</body>
+</html>
